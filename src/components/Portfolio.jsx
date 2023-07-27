@@ -17,8 +17,8 @@ const Portfolio = () => {
     {
       id: 2,
       src: reactParallax,
-      vercel:'',
-      github:'',
+      vercel:'https://stopwatch-umber-seven.vercel.app/',
+      github:'https://github.com/sunil-dhi/Stopwatch',
     },
     {
       id: 3,
