@@ -48,7 +48,7 @@ const links=[
 
 const SocialLinks = () => {
   return (
-    <div name="Experience" className="hidden lg:flex top-[35%] left-0 fixed">
+    <div name="Experience" className="hidden bg-gray-500 lg:flex top-[35%] left-0 fixed">
       <ul>
 
         {
