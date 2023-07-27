@@ -13,24 +13,14 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        <p className="text-2xl mt-10">
+        I am a meticulous fullstack web developer living in Toronto, Ontario. I got my interests in Programming from 12th standard, That's why I did my Graduation and Post-graduation in computer science. Now, Coding has become my passion and I love seeing the results of my efforts.
         </p>
 
         <br />
 
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        <p className="text-2xl">
+          Moreover, I have worked as a web developer and having hands-on experience with Html,Css,Javascript,Reactjs etc. I have worked on several projects individually as well as in team and built user-friendly UI components. I am passionate for developing user friendly, responsive and reactive solutions for clients.
         </p>
       </div>
     </div>
