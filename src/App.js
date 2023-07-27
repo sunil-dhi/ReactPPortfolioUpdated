@@ -9,13 +9,13 @@ function App() {
   return (
     <div className="App">
 
-      <Navbar />
-    <Home />
-    <About />
-    <Portfolio />
-   <Experience />
-   <SocialLinks />
-    <Contact />
+          <Navbar />
+      <Home />
+      <About />
+      <Portfolio />
+      <Experience />
+      <Contact />
+      <SocialLinks />
     </div>
   );
 }

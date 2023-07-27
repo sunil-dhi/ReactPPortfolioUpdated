@@ -48,12 +48,12 @@ const links=[
 
 const SocialLinks = () => {
   return (
-    <div name="Experience" className="hidden lg:flex top-[35%] left-0 fixed">
+    <div className="hidden lg:flex top-[35%] left-0 fixed">
       <ul>
 
         {
             links.map(({id,child,href,style,download})=>(
-                <li key={id}  className={"flex justify-between w-40 h-14 px-4 items-center ml-[-100px] hover:rounded-md hover:ml-[-10px] duration-700 bg-gray-500" + "" + style}>
+                <li key={id}  className={"flex justify-between w-40 h-14 px-4 items-center ml-[-100px] hover:rounded-md hover:ml-[-10px] duration-700 bg-gray-500" + " " + style}>
                 <a href={href} 
                 download={download}
                 target="_blank"
