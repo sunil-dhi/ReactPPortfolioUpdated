@@ -40,6 +40,7 @@ const links=[
           </>
         ),
         href:"/ResumeS.pdf",
+        target: "_blank",
         style:'rounded-br-md',
         download:true
     },
