@@ -39,7 +39,7 @@ const links=[
             Resume <AiOutlineCloudDownload size={30} />
           </>
         ),
-        href:"/ResumeF.pdf",
+        href:"/ResumeS.pdf",
         style:'rounded-br-md',
         download:true
     },
