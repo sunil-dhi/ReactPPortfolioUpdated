@@ -11,7 +11,7 @@ const links=[
             LinkedIn <FaLinkedin size={30} />
           </>
         ),
-        href:"https://linkedin.com",
+        href:"https://linkedin.com/in/sunildhiman100",
         style:'rounded-tr-md'
     },
     {
